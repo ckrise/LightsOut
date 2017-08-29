@@ -92,7 +92,7 @@
             // 
             // newGameButton
             // 
-            this.newGameButton.Location = new System.Drawing.Point(83, 393);
+            this.newGameButton.Location = new System.Drawing.Point(81, 451);
             this.newGameButton.Name = "newGameButton";
             this.newGameButton.Size = new System.Drawing.Size(100, 39);
             this.newGameButton.TabIndex = 1;
@@ -102,7 +102,7 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(246, 393);
+            this.exitButton.Location = new System.Drawing.Point(246, 451);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(100, 39);
             this.exitButton.TabIndex = 2;
@@ -114,7 +114,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(428, 444);
+            this.ClientSize = new System.Drawing.Size(428, 511);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.newGameButton);
             this.Controls.Add(this.menuStrip1);
