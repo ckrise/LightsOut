@@ -1,0 +1,10 @@
+C:\Users\caleb\Documents\COMP 445\LightsOut\bin\Release\LightsOut.exe.config
+C:\Users\caleb\Documents\COMP 445\LightsOut\bin\Release\LightsOut.exe
+C:\Users\caleb\Documents\COMP 445\LightsOut\bin\Release\LightsOut.pdb
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.AboutForm.resources
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.MainForm.resources
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.Properties.Resources.resources
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.csproj.GenerateResource.Cache
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.exe
+C:\Users\caleb\Documents\COMP 445\LightsOut\obj\Release\LightsOut.pdb
